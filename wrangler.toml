@@ -1,0 +1,7 @@
+name = "car-rent-crm"
+compatibility_date = "2025-01-01"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "car-rent-db"
+database_id = "23fd7c5e-473a-4fd4-9a17-16757c091fc0"
